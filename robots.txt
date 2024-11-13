@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://qualitypainting.paintingvikmanic.xyz/sitemap_index.xml
